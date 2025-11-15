@@ -1,7 +1,7 @@
 baseurl: '/Acrylia/'
 url: 'https://nextagenzia.github.io'
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Acrylia'
 remote_theme: zerostaticthemes/jekyll-serif-theme
 
 logo:
